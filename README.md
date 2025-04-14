@@ -26,7 +26,7 @@ The more rhythmic, fast-tempoed *‘chit,chit,chit,chit’*, is the **first phra
 
 The longer, whistle-like latter part, _‘dee-doo-’_ (sometimes just the first _‘dee-’_) is the dialect, which is shared within locality, or neighbours. Meaning if you go to Prague, they will be all singing the same _‘dee-doo-‘_, but when you go to Paris, they will all be singing _‘dee-tee-‘_! Actually, the dialects are more dense and diverse but if you’re more curious about the dialects, see [3. Dialects](#3-Dialects). <br>
 
-Isn’t it amazing, that they have such distinct features in one song? Different features, possibly different meanings, different meanings, possibly different functions! Now this is where it all gets interesting but I won't overwhelm you with details here... [Maybe here](#5-About-me)!
+Isn’t it amazing, that they have such distinct features in one song? Different features, possibly different meanings, different meanings, possibly different functions! Now this is where it all gets interesting but I won't overwhelm you with details here... 
 
 ## 2. First phrase
 I have put in each phrase type songs in each image. Try listening, maybe focusing on the shared types: "Type a" and "Type b".<br>
