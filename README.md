@@ -8,7 +8,7 @@ So if you're ready...Feel free to dive in and explore!💫
 ## 1. Yellowhammer
 
 ### Let's start with basics... <br>
-Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory with partial exceptions for some Eastern Europe populations. Originally from grassland, they have well-adapted to agricultural landscapes, preferably lowland farmland with open space and shrub patches. Although they are widely distributed, they have been suffering population decline in the last 20-30 years mainly due to habitat destruction. As means of conservation, they were even elected as the Bird of the Year by the Czech Ornithological Society in 2011, so our hopes are high to make history again...👑 <br>
+Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory with partial exceptions for some Eastern Europe populations. Originally from grassland, they have well-adapted to agricultural landscapes, preferably lowland farmland with open space and shrub patches. Although they are widely distributed, their populations have been decreasing due to habitat destruction. As means of conservation, they were even elected as the Bird of the Year by the Czech Ornithological Society in 2011, so our hopes are high to make history again...👑 <br>
 
 ### Now to my favourite part... <br>
 Yellowhammer males, like many other birds, sing to attract mates and defend their territory during breeding season.
@@ -100,7 +100,7 @@ Guess which dialects they were! And if you're one smart detective...You'll notic
 ### 3-2. Citizen science project
 Our team has contributed almost a decade to the nation-wide citizen science project to map out the dialects of Czech Yellowhammers. It was a great success, leading to so many fascinating discoveries! <br>
 
- (EN)'Dialects of Yellowhammers': http://www.yellowhammers.net/<br>
+ (EN)'Dialects of Yellowhammers (DCY)': http://www.yellowhammers.net/<br>
  (CZ)'Projektu Nářečí českých strnadů': https://www.strnadi.cz/  
 
 Just a little teaser, we may or may not be preparing ver.2...So stay tuned👀
@@ -109,6 +109,9 @@ Just a little teaser, we may or may not be preparing ver.2...So stay tuned👀
 
    Diblíková, L., Pipek, P., Vosolsobě, S., Petrusek, A., & Petrusková, T. (2023). Reevaluation of dialect boundaries in the Yellowhammer (Emberiza citrinella) based on citizen science data: Should we split or lump?. Avian Research, 14, 100115.
    [https://doi.org/10.1016/j.avrs.2023.100115](https://doi.org/10.1016/j.avrs.2023.100115)
+
+   Diblíková, L., Pipek, P., Petrusek, A., Svoboda, J., Bílková, J., Vermouzek, Z., ... & Petrusková, T. (2019). Detailed large‐scale mapping of geographical variation of Yellowhammer Emberiza citrinella song dialects in a citizen science project. Ibis, 161(2), 401-414.
+   https://doi/pdf/10.1111/ibi.12621?casa_token=eN4aJ-0fDjUAAAAA:3D_hI9pJyck_6Vk1yEdM2wyXG071_Nv8IGrnWAdOpK1hHfBL_taJaiG5-PqLrmzL8GGBd-hBzldb8mjo
 
 Pipek, P., Petrusek, A., Petrusková, T., Diblíková, L., & v časopise Živa, V. Jedna píseň tucetkrát jinak.
    https://ziva.avcr.cz/files/ziva/pdf/jedna-pisen-tucetkrat-jinak.pdf
